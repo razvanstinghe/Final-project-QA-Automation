@@ -32,4 +32,6 @@ g) pentru rularea testelor cu posibilitatea generarii rapoartelor, se ruleaza in
 f) pentru accesarea rapoartelor generate, in tree-ul proiectului:
 1. se cauta fisierul cu denumirea mentionata mai sus, in cazul de fata “project_report_RS.html”;
 2. click dreapta pe el;
-3. Open in - > Browser -> se alege browserul dorit din lista si se asteapta deschiderea raportului.
+3. Open in:
+4. Browser;
+5. se alege browserul dorit din lista si se asteapta deschiderea raportului.
