@@ -17,10 +17,10 @@ f) apoi, in fereastra deschisa, se scrie comanda git clone :  https://github.com
 g) 	dupa descarcare, se deschide aplicatia Pycharm, iar apoi: File -> Open  -> accesam calea unde s-a salvat proiectul si selectam folderul dorit;
 
 h) 	deschidem Terminal-ul, unde vom instala urmatoarele librarii necesare rularii testelor:
--pip install selenium + ENTER;
--pip install webdriver-manager + ENTER;
--pip install behave + ENTER;
--pip install behave-html-formatter + ENTER.
+1. pip install selenium + ENTER;
+2. pip install webdriver-manager + ENTER;
+3. pip install behave + ENTER;
+4. pip install behave-html-formatter + ENTER.
 Dupa rularea instalarii fiecarei librarii, se asteapta confirmarea instalarii cu succes.
 
 g) pentru rularea testelor cu posibilitatea generarii rapoartelor, se ruleaza in Terminal comanda: 
