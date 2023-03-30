@@ -1,4 +1,4 @@
-	INSTALARE  SI  DESCHIDERE  PROIECT
+	# INSTALARE  SI  DESCHIDERE  PROIECT
 	
 Pentru instalare is rulare proiect, se parcurg urmatorii pasi":
 
