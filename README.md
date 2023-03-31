@@ -22,10 +22,10 @@ g) 	dupa descarcare, se deschide aplicatia Pycharm, iar apoi:
 
 h) deschidem Terminal-ul, unde vom instala urmatoarele librarii necesare rularii testelor:
 
-1. pip install selenium + ENTER;
-2. pip install webdriver-manager + ENTER;
-3. pip install behave + ENTER;
-4. pip install behave-html-formatter + ENTER.
+1. "pip install selenium" + ENTER;
+2. "pip install webdriver-manager" + ENTER;
+3. "pip install behave" + ENTER;
+4. "pip install behave-html-formatter" + ENTER.
 
 Dupa rularea instalarii fiecarei librarii, se asteapta confirmarea instalarii cu succes.
 
