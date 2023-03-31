@@ -1,26 +1,26 @@
 	INSTALARE  SI  DESCHIDERE  PROIECT
 	
-Pentru instalare is rulare proiect, se parcurg urmatorii pasi":
+Pentru instalare si rulare proiect, se parcurg urmatorii pasi:
 
-a) descarcare si instalare Chrome browser, deoarece proiectul de fata a fost realizat pentru utilizare cu Chrome-ul;
+a) descarcare si instalare Chrome browser, deoarece proiectul de fata a fost realizat pentru utilizare cu Chrome-ul.
 
-b) descarcare si instalare Python;
+b) descarcare si instalare Python.
 
-c) descarcare si instalare Pycharm Community Edition;
+c) descarcare si instalare Pycharm Community Edition.
 
-d) descarcare si instalare GIT;
+d) descarcare si instalare GIT.
 
-e) in folderul unde se doreste clonarea proiectului, se da click dreapta si se selecteaza git Bash Here;
+e) in folderul unde se doreste clonarea proiectului, se da click dreapta si se selecteaza git Bash Here.
 
-f) apoi, in fereastra deschisa, se scrie comanda git clone :  https://github.com/razvanstinghe/Final-project-QA-Automation ;
+f) apoi, in fereastra deschisa, se scrie comanda git clone :  https://github.com/razvanstinghe/Final-project-QA-Automation .
 
 g) 	dupa descarcare, se deschide aplicatia Pycharm, iar apoi: 
 
 1. File;
 2. Open;
-3. accesam calea unde s-a salvat proiectul si selectam folderul dorit;
+3. accesam calea unde s-a salvat proiectul si selectam folderul dorit.
 
-h) 	deschidem Terminal-ul, unde vom instala urmatoarele librarii necesare rularii testelor:
+h) deschidem Terminal-ul, unde vom instala urmatoarele librarii necesare rularii testelor:
 
 1. pip install selenium + ENTER;
 2. pip install webdriver-manager + ENTER;
@@ -30,11 +30,12 @@ h) 	deschidem Terminal-ul, unde vom instala urmatoarele librarii necesare rulari
 Dupa rularea instalarii fiecarei librarii, se asteapta confirmarea instalarii cu succes.
 
 i) pentru rularea testelor cu posibilitatea generarii rapoartelor, se ruleaza in Terminal comanda: 
- behave -f html -o project_report_RS.html --tags=smoke + ENTER;
+ 
+ behave -f html -o project_report_RS.html --tags=smoke + ENTER.
 
 j) pentru accesarea rapoartelor generate, in tree-ul proiectului:
 
-1. se cauta fisierul cu denumirea mentionata mai sus, in cazul de fata “project_report_RS.html”;
+1. se cauta fisierul cu denumirea mentionata mai sus, in cazul de fata “project_report_RS.html” ;
 2. click dreapta pe el;
 3. Open in:
 4. Browser;
