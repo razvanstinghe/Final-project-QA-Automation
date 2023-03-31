@@ -31,7 +31,7 @@ Dupa rularea instalarii fiecarei librarii, se asteapta confirmarea instalarii cu
 
 i) pentru rularea testelor cu posibilitatea generarii rapoartelor, se ruleaza in Terminal comanda: 
  
- behave -f html -o project_report_RS.html --tags=smoke + ENTER.
+ "behave -f html -o project_report_RS.html --tags=smoke" dupa care se apasa ENTER.
 
 j) pentru accesarea rapoartelor generate, in tree-ul proiectului:
 
